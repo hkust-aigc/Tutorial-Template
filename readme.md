@@ -11,10 +11,10 @@ To use this template, simply fill in the placeholders in template.html with your
 #### HTML5 Concepts
 HTML5 introduces several new features and improvements over previous versions of HTML. Some of the key concepts include:
 
-/<h2>: The element is a level 2 heading with a class attribute set to "Title". This element is used to display the project name or title.
+\<h2>: The element is a level 2 heading with a class attribute set to "Title". This element is used to display the project name or title.
 
-/<h3>: The element is a level 3 heading with a class attribute set to "Subtitle". This element is used to display a subtitle or heading for a specific section of the tutorial.
+\<h3>: The element is a level 3 heading with a class attribute set to "Subtitle". This element is used to display a subtitle or heading for a specific section of the tutorial.
 
-/<span>: The element inside the /<h3> element is used to apply styling or formatting to the text inside it. In this case, it is used to make the text bold.
+\<span>: The element inside the \<h3> element is used to apply styling or formatting to the text inside it. In this case, it is used to make the text bold.
 
-The /<span> element inside the /<p> element is also used for styling or formatting. In this case, it is used to add some extra space before the text using the &nbsp; character entity reference.
+The \<span> element inside the \<p> element is also used for styling or formatting. In this case, it is used to add some extra space before the text using the &nbsp; character entity reference.
