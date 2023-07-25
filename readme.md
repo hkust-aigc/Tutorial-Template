@@ -15,6 +15,4 @@ Some of the key concepts in our template.html:
 
 \<h3>: The element is a level 3 heading with a class attribute set to "Subtitle". This element is used to display a subtitle or heading for a specific section of the tutorial.
 
-\<span>: The element inside the \<h3> element is used to apply styling or formatting to the text inside it. In this case, it is used to make the text bold.
-
-The \<span> element inside the \<p> element is also used for styling or formatting. In this case, it is used to add some extra space before the text using the &nbsp; character entity reference.
+\<span>: The \<span> element inside the \<h3> element is used to apply styling or formatting to the text inside it. In this case, it is used to make the text bold. The \<span> element inside the \<p> element is also used for styling or formatting. 
