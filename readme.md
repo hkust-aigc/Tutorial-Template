@@ -9,7 +9,7 @@ To use this template, simply fill in the placeholders in template.html with your
 ### Basic HTML5 Knowledge
 
 #### HTML5 Concepts
-HTML5 introduces several new features and improvements over previous versions of HTML. Some of the key concepts include:
+Some of the key concepts in our template.html:
 
 \<h2>: The element is a level 2 heading with a class attribute set to "Title". This element is used to display the project name or title.
 
