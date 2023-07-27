@@ -2,6 +2,8 @@
 
 This is a simple template that can be used to write tutorials in HTML5 code. The template includes a basic HTML structure with placeholders for a title, subtitle, and text content, as well as some CSS files that provide some basic styling.
 
+Also You can look a demo at https://hkust-aigc.github.io/videoCreators/tutorial7/
+
 ## Getting Started
 
 To use this template, simply fill in the placeholders in template.html with your own content. You can use any text editor or integrated development environment (IDE) that supports HTML to edit the file. I have also packed the CSS and images for you to test what your tutorial looks like in our website.
