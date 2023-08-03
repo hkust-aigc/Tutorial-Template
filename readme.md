@@ -1,5 +1,7 @@
 # Tutorial Template
 
+!!! 2023.8.3 there' s a big update for video presentation. Better update to the latest version
+
 This is a simple template that can be used to write tutorials in HTML5 code. The template includes a basic HTML structure with placeholders for a title, subtitle, and text content, as well as some CSS files that provide some basic styling.
 
 Also You can look a demo at https://hkust-aigc.github.io/videoCreators/tutorial7/
